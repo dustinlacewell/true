@@ -1,3 +1,3 @@
-FROM scratch
+FROM alpine
 ADD true-asm /true
 CMD ["/true"]
