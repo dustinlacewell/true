@@ -1,3 +1,3 @@
 FROM alpine
-ADD true-asm /true
-CMD ["/true"]
+ADD true-asm /opt/true
+CMD ["/opt/true"]
